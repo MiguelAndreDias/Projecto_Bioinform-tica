@@ -1,0 +1,260 @@
+﻿Discussão
+"WBE is gaining momentum as a potentially valuable management tool in efforts to detect and respond with appropriate public health interventions to keep COVID-19 infection prevalence within a manageable threshold for health systems. Many research teams have reported the application of this tool to detect SARS-CoV-2 RNA in wastewater, with the intent to monitor the prevalence of COVID-19 and provide early warning detection of infection resurgence of the virus in communities. There is a need to understand the persistence of SARS-CoV-2 and its nucleic acid in water and wastewater
+environments to properly interpret SARS-CoV-2 RNA measurements from wastewater collection systems.
+The decay of SARS-CoV-2 and MHV RNA in wastewater was measured at four environmentally relevant temperatures covering cold, temperate, subtropical,
+and tropical latitudes using RT-qPCR. In addition to untreated wastewater, autoclaved wastewater (i.e., reduced biological activity) and
+dechlorinated tap water (free of enzymatic activity) were included to determine the impacts of variable matrices on the persistence of SARS-CoV-
+2 and MHV RNA. High concentrations of gamma-irradiated SARS-CoV-2 and MHV were seeded into these three water matrices so that at least 2 to 3
+log reductions could be monitored over the 33-day monitoring period. Virus concentration was not performed; instead, the RNA of both viruses was
+directly extracted from the test samples at multiple time points over the course of the study. Importantly, RT-PCR inhibition for either the SARSCoV-
+2 or MHV assays was not observed during the study. This is probably because RNA was directly extracted from a small volume (140 μL) of
+wastewater samples. A recent study investigating the decay of enveloped Zika virus RNA in wastewater using RT-qPCR also reported the absence of
+PCR inhibition in diluted and undiluted wastewater samples (Muirhead et al., 2020). However, when virus is concentrated from a larger volume of
+wastewater (>100 mL) collected from different WWTPs, inhibitors may affect RT-qPCR amplifications (Schrader et al., 2012). MHV particles were
+also seeded because the impacts of gamma-irradiation on the integrity of SARS-CoV-2 particles were unknown and gamma-irradiated SARS-CoV-2
+will seldom ever be excreted by infected individuals. The inclusion of MHV also enabled comparison of the decay patterns between gamma-irradiated
+SARS-CoV-2 (human) and non-gamma-irradiated MHV (animal) coronaviruses.
+In this study, MHV and SARS-CoV-2 RNA showed comparable persistence. RNA from both viruses in untreated wastewater and autoclaved
+wastewater persisted for 18 to 25 days at 37 ◦C. This is particularly important for WBE as there is limited knowledge on the persistence of
+SARS-CoV-2 RNA in wastewater. Our results suggest that temperatures as high as 37 ◦C are not likely to affect the detection of SARS-CoV-2 RNA at
+hydraulic retention times typical of wastewater collection systems, i.e. <24 h transit time to a sample collection point (i.e., WWTP influent).
+Further, the results indicate that samples should not be retained at these higher temperatures; rather they should be stored and transported to the
+location for analyses in a chilled state (e.g. refrigerated). This may be especially important for WBE in tropical and warmer sub-tropical environments. Fortunately, the prolonged persistence of both SARS-CoV-2 and MHV RNA at 4 and 15 ◦C suggests that wastewater samples can be
+stored at 4 ◦C without significant degradation for a considerable length of time. This is particularly important for laboratories where resources and
+throughput are limited, and sample storage is unavoidable. The first-order decay rate constant for each matrix increased with
+increasing temperature for both SARS-CoV-2 and MHV RNA. Across all matrices included in the study, temperature was the most significant driver
+of decay followed by matrix type. Nevertheless, the decay rate of SARS-CoV-2 RNA in untreated wastewater was less sensitive to increases in temperature
+than MHV and SARS-CoV-2 RNA in other matrices. A significant difference in first-order decay rate constants between MHV and SARS-CoV-2
+was only identified in untreated wastewater, which indicates that gamma radiation may possibly influence decay rates in biologically active matrices.
+The viral state (i.e., infectivity) of SARS-CoV-2 in feces is currently uncertain; while the presence of infectious SARS-CoV-2 in feces has previously
+been reported (Xiao et al., 2020), findings from other studies indicate the majority of virus is inactivated prior to excretion (W¨olfel et al., 2020). As a compliment to the current study, it would be ideal to use intact SARS-CoV-2 as the seeding material, however, this could not be done due to high biological safety level (BSL-3) requirements for working with infectious SARS-CoV-2. Therefore, gamma-irradiated SARS-CoV-2 was used in our
+study. Gamma irradiation is known to preserve the integrity of viral morphology and protein structure (Elliot et al., 1982), and does not affect
+PCR results at excessive radiation up to 5 Mrads used in this study (Lowy,2005; Leung et al., 2020). Future research is needed to better understand the
+SARS-CoV-2 RNA decay using gamma-irradiated versus intact SARS-CoV-2. Despite the inactivation of indigenous microbiota, the observed decay
+for MHV RNA was slightly faster in autoclaved wastewater than untreated wastewater at 4 and 37 ◦C. For SARS-CoV-2 RNA, decay at 37 ◦C was also
+faster in autoclaved wastewater than untreated wastewater. It is possible that RNases, which are not inactivated by autoclaving (Green and Sambrook,
+2019), were released into solution by cell lysis and that these enzymes contributed to increased RNA decay compared to untreated
+wastewater. It is also possible that the RNA decay rates of both viruses were increased due to other changes in the physicochemical characteristics of the wastewater resulting from autoclaving (Jones and Prasad, 1968). The findings from the current study suggest that RNA from SARS-CoV-
+2 and its surrogate MHV decay slowly in both wastewater and dechlorinated tap water samples held at common environmental temperatures
+under controlled laboratory conditions. Since the conditions in this study may not be representative of the environmental conditions (i.e., diurnal
+temperature variation) in all wastewater collection systems, future decay studies that employ in situ diffusion chambers or dialysis bags are needed
+to confirm the decay rates identified in this study (Boehm et al., 2019). The presence of biofilms in the sewerage system may also increase the
+persistence of viruses (Skraber et al., 2007). Additionally, owing to methodological constraints, SARS-CoV-2 and MHV were seeded at RNA
+concentrations of approximately 6-log10 GC/mL. In wastewater collection systems, much lower concentrations are likely, and observed decay
+parameters might differ. Thus, additional studies are needed to explore how biofilms and lower concentrations may affect the SARS-CoV-2 RNA
+decay in wastewater systems (Choi et al., 2020). Nevertheless, the current study demonstrates that the SARS-CoV-2 RNA signal is unlikely to degrade significantly at the time scales and temperatures typical of most wastewater collection systems, nor decay if stored at 4 ◦C after collection. The similar decay of MHV RNA identifies it as suitable persistence surrogate for SARS-CoV-2. Future studies will need to identify if the RNA of MHV is concentrated with efficiencies similar to SARS-CoV-2. Also, while not imperative for WBE, an increased understanding of SARS-CoV-2 infectivity in feces and wastewater collection systems would enhance our understanding about possible transmission routes. The slow decay of SARS-CoV-2 RNA supports its
+detection and quantification as a viable surveillance tool to monitor the presence of COVID-19 in the community."
+"There is a need for the development of efficientmethods to concentrate
+and detect SARS-CoV-2 from wastewater, which has been
+identified as a key research need for WBE (Kitajima et al., 2020, La
+Rosa et al., 2020b). Furthermore, it is important to determine the
+SARS-CoV-2 concentration method recovery efficiency. First, it can enable
+the user to select the appropriate method to recover SARS-CoV-2
+from wastewater with optimal efficiency. Additionally, characterizing
+method performancewill allowmore detailed assessments of the actual
+SARS-CoV-2 load present in wastewater influent, as well as any given
+water source receiving (un)treated wastewater. A thorough understanding
+of SARS-CoV-2 concentration method efficiencies will enable
+accurate measurements in wastewater and allow public health officials
+to develop appropriate mitigation strategies needed on a community
+level. Due to the inherent risks associatedwith laboratoryworkwith infectious
+SARS-CoV-2 (WHO, 2020), we used a human CoV surrogate,
+MHV, belonging to the same genus as SARS-CoV-2 to evaluate concentration
+method performance. In this study, seven concentration
+methods were evaluated for their recovery of MHV from wastewater.
+The benefits and limitations of these methods are summarized in
+Table 3. These methods have been previously used to recover
+nonenveloped enteric viruses from various water matrices but have
+not been evaluated for their ability to detect and concentrate enveloped
+virus to date except for a few instances (Shi et al., 2017; Ahmed et al.,
+2020; Medema et al., 2020; Wu et al., 2020). When reported, recovery
+efficiencies for nonenveloped viruses varied widely depending on the
+matrix and the virus (Haramoto et al., 2018), but analogous information
+for enveloped viruses is not available.
+Of the methods tested, two of the adsorption-extraction methods
+had the most optimalMHV recovery for wastewater samples (Methods
+B and C) and their mean recovery efficiencieswere not significantly different.
+Adsorption-extraction methods use electronegative membranes
+with a 0.45-μm pore-size to concentrate viruses; these methods have
+been used to concentrate nonenveloped viruses in wastewater and
+environmental waters (as recently reviewed in Haramoto et al.,
+2018; Bofill-Mas and Rusinol, 2020) and only recently for SARSCoV-
+2 (Nemudryi et al., 2020). The best mean MHV recovery was
+achieved by Method C, which involved the addition of MgCl2 to the
+wastewater sample prior to filtration. The second highest mean recovery
+was achieved using Method B, which did not receive any
+pre-treatment prior to filtration. It is likely that the addition of
+MgCl2 increased MHV adsorption to the filter occurred in Method
+C. Increased virus adsorption with high MgCl2 concentrations was
+previously described and attributed to salt-bridging (Wallis et al.,
+1979; Lukasik et al., 2000; Villar et al., 2006; Ikner et al., 2012). Additionally,
+RT-qPCR inhibitors were not significantly co-concentrated
+by Method C per comparing the MHV-seeded wastewater and distilled
+water results.
+It is important to note that the adsorption-extractionMethods B and
+C do not include pre-filtration or centrifugation; thus, they concentrated
+viruses from the liquid and solid fractions of the wastewater sample.
+Previous studies have suggested that considerable portions of MHV
+(and other CoV) may be bound to particulate matter in wastewater because upwards of 26%MHVs were adsorbed to organic matter within
+the sample (Gundy et al., 2009; Ye et al., 2016). Since themost efficient
+MHV concentration methods in this study were those that equally concentrated
+viruses from the solid and liquid fractions, the present study
+validates the observation about MHV adsorption to organic matter.
+Furthermore, the results of the present study highlight the need to
+concentrate both liquid and solid fractions of wastewater samples. Interestingly,
+Method A (adsorption-extraction, with acidification pretreatment)
+also concentrated both fractions of the sample, but unlike
+Methods B and C, it required acidification of the sample to pH 4 and
+yielded the lowest recoveries. It has been reported that sample acidificationmight
+affect virus integrity and infectivity (Abdelzaher et al., 2008;
+Sabatino and Maier, 1980). This suggests that, unlike other enteric viruses,
+CoV may be sensitive to low pH. Further cross-comparison may
+be required to identify the impacts of acidification and other pretreatment
+on the recovery of SARS-CoV-2 from untreated wastewater
+samples.
+We found that ultrafiltration using centrifugal concentration devices
+may also be suitable for the recovery of MHV; however, recovery efficiency
+varied greatly based upon the centrifugal concentration device
+utilized (Methods D and E). Ultrafiltration using centrifugal concentration
+devices concentrate viruses based on size exclusion rather than
+electrostatic interactions between negatively charged viruses and electronegative
+or electropositive membranes. In this method, molecules
+smaller than the molecular weight cut-off are passed through the
+membrane by centrifugation; thus, the viruses are collected in the
+retentate fraction. Thesemethods have been previously used to concentrate
+viruses from (waste)water (Symonds et al., 2009; Ikner et al.,
+2011) and recently used for SARS-CoV-2 RNA detection in untreated
+wastewater (Ahmed et al., 2020; Medema et al., 2020; Kocamemi
+et al., 2020). Overall, Method D (Amicon Ultra-15 centrifugal filter device)
+yielded the third-highest recovery, while Method E (Centricon
+Plus-70 centrifugal concentration device) had the second worst MHV
+recovery. The significantly different (p b .05)MHV recovery efficiencies
+between the two different types of centrifugal concentration devices
+demonstrate that not all centrifugal devices can effectively concentrate
+CoV from wastewater.
+The difference in recovery efficiency could be due to differences in
+design. The Centricon plus-70 unit has a greater surface area for filtration
+than the Amicon Ultra-15 centrifugal filter device; thus, more
+MHV could have been lost via adsorption to the membrane via van
+der Waals interactive forces and/or hydrophobic bonding (Ikner et al.,
+2012). Ikner et al. (2011) used 30 kDa Centricon ultrafiltration units in
+a secondary concentration step following electropositive NanoCeram
+cartridge filters. The Centricon recovered 75% of MS2 coliphage, 61% of
+Echovirus 1, 95% of Poliovirus 1, and 109% of Coxsackievirus B5; however,
+only 33% of adenovirus 2 was recovered. Adenovirus recovery
+was similar to that obtained for MHV in our study. Such results suggest
+that a given centrifugal concentration device may also yield variable recoveries
+for different classes of viruses. In addition to not being themost efficientmethod forMHV recovery,
+ultrafiltration using centrifugal concentration devices has a variety of
+drawbacks. One limitation is that a pre-filtration step at low speed is required
+to remove most of the larger debris and cells before ultrafilter
+centrifugation. Such pre-filtration can cause the loss of particleassociated
+viruses in the pellet. The resultant pellets from Methods D
+and E were analyzed for MHV in our study; we observed ~30% loss of
+MHV during the pre-filtration step. Furthermore, Method D is timeconsuming
+because the maximum sample volume of these units is
+15 mL; hence, repeated centrifugation of 15–20 mL aliquots is required
+to concentrate a 50-mL sample. While no evidence of RT-qPCR inhibition
+was identified in this study usingMethod D, these centrifugal concentration
+devices may co-concentrate PCR inhibitors. Furthermore,
+smallermolecular cut-off (i.e., 10 kDa or 30 kDa) devicewill take significant
+longer time to process wastewater samples than larger molecular
+cut-off (i.e., 100 kDa) and also co-concentrate different levels of PCR inhibitors.
+Finally, centrifugal concentration devices are quite expensive
+and often not readily available in many countries.
+Thus, adsorption-extraction methods (Methods B and C) may be
+more logistically feasible and efficient for SARS-CoV-2 WBE. Method F
+(PEG precipitation) appeared to be a promising approach forMHV concentration
+because it incorporated the concentration of viruses from
+both the liquid and solid fractions ofwastewater, however; it recovered
+significantly lessMHV in comparison toMethods B and C. Different versions
+of PEG precipitation have been used for the assessment of SARSCoV-
+2 in untreated wastewater, but the efficiencies were not reported
+(Wu et al., 2020; Kocamemi et al., 2020; Zhang et al., 2020; Bar-or
+et al., 2020). To the best of our knowledge, only one study reported
+the MHV recovery (~5%) using PEG precipitation (Ye et al., 2016),
+which was much lower than the value obtained in this study. This is
+likely because in our study PEG method concentrated MHV from both
+liquid and solid fractions, whereas in the previous study MHVwas concentrated
+only from liquid phase (Ye et al., 2016). Using PEG precipitation
+methods, Kocamemi et al. (2020) found 1–1.5 log10-reduction in
+detection due to RT-qPCR inhibition when using this method and it is
+likely that the co-concentration of inhibitors with these methods explained
+their lowerMHV recoveries.While qPCR inhibition was not observed
+in our study, the RT process may have been inhibited.
+In this study, Method G (ultracentrifugation) yielded a mean recovery
+of 33.5%, which was significantly less than the most efficient
+methods (Methods B and C).Wurtzer et al. (2020a) used ultracentrifugation
+to recover SARS-CoV-2 from 11 mL of wastewater but did not
+provide recovery efficiency data. Ultracentrifugation has been used for
+decades to concentrate viruses from environmental matrices. It has
+been reported that ultracentrifugation at 100,000 g is required to pellet
+most macromolecules and viruses (Ammersbach and Bienzle, 2011).
+For example, Fumian et al. (2010) reported that ultracentrifugation
+(100,000 g for 1 h at 4 °C) had a mean recovery of 47% (range of
+34–60%) of nonenveloped rotavirus A from wastewater samples. Ye
+et al. (2016) seeded 60 mL of wastewater with MHV and with the
+nonenveloped MS2 coliphage. Low mean recoveries (~5%) were
+achieved for both MHV and MS2 using the ultracentrifugation method;
+however, analyseswere culture-based, and authors attributed lowMHV
+andMS2 recoveries to virus inactivation by the high g force of the ultracentrifugation.
+The method also involves discarding supernatant a few
+times which may have resulted in loss of MHV. Nevertheless, this
+method may not be suitable forWBE studies because it requires expensive
+specialized centrifuges that may not be found in all laboratories.
+This study is the first to evaluate established wastewater virus concentration
+methodologies for their use to concentrate CoV from wastewater,
+and ultimately, facilitate WBE. Since free viral RNA can degrade
+within minutes in wastewater (Limsawat and Ohgaki, 1997), most of
+the RNA copies detected in the wastewater virus concentration
+methods will be most likely from intact virus particles that may or
+may not be infectious. While we identified superior performance by
+the adsorption extraction concentration methods, with MgCl2 pretreatment
+and without pre-treatment, it is important to note that the
+methods performance evaluation was based on small volumes
+(50 mL) of one municipal WWTP and the use of a surrogate (MHV). It
+is possible that CoV recovery efficiencies may vary based upon the
+wastewater matrix characteristics (e.g., concentration of total and dissolved
+suspended solids).
+Frequently, it is possible to filter as much as 100–200 mL of wastewater
+using the adsorption extraction method used in this study. If
+these larger volumes were filtered, then the adsorption-extraction
+methods may become less efficient given the increased coconcentration
+of inhibitors. Also, centrifugal concentration devices,
+such as those used in this study, may co-concentrate RT-PCR inhibitors.
+To obtain information on the RT-PCR inhibitors, 50mL of distilledwater
+was seeded with MHV and the MHV recovery efficiency was compared
+to that for theMHV seededwastewater forMethods C and D. Given that
+the recovery efficiencywas only improved for distilledwater by 5–8%, it
+is unlikely that 50 mL wastewater samples tested in this study had RTPCR
+inhibitors. It is likely that the co-concentration of inhibitors from
+larger volumes will have a minimal influence on CoV recovery but will
+require further investigation. Furthermore, RNA extraction kit used in
+this study is equippedwith next-generation inhibition removal technology
+(IRT)which is designed to remove PCR inhibitors effectively for soil
+and fecal samples.
+Several methods identified in this preliminary study can be used in
+conjunction with large-scale primary concentration procedures
+(2–100 L, such as dead-end or tangential flow hollow fibre ultrafiltration)
+as a primary step to reduce filter elution to volumes,which are applicable
+to molecular detection assays. Furthermore, the focus of future
+research efforts should be to compare recovery efficiencies of MHV to
+those of actual SARS-CoV-2, considering the multiple benefits of working
+with the former as a surrogate. Also, the recovery efficiency of various
+levels of surrogate CoV or SARS-CoV-2 from large volumes of
+wastewater needs to be assessed to better understand how these variabilities
+affect recovery efficiency. Furthermore, the best methods for
+the recovery of intact virus particles need to be identified. Given
+the high standard deviations observed in the recoveries of any
+given method, the use of a process control is highly recommended
+for assessing and normalizing SARS-CoV-2 concentrations for WBE.
+MHV is a promising process control, which can be purchased from
+ATCC® VR-764™and similar companies; however, itmay be difficult
+to obtain this virus in a timely-manner during the pandemic. Other
+coronaviruses, and/or other viral surrogates, could also be useful
+process controls for SARS-CoV-2 surveillance; thus, future studies
+are needed to assess their use as a process control. The culmination
+of these efforts will aid public health officials, epidemiologist and
+modellers in assessing incidences of SARS-CoV-2 infection rates at
+the community scale using WBE approaches, so that appropriate
+public health response and intervention strategies are deployed."
