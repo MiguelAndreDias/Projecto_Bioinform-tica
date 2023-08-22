@@ -4,18 +4,6 @@
 
 An in-depth data analysis project that employs natural language processing techniques, including topic modeling and sentiment analysis, to study articles related to the presence of SARS-CoV-2 in wastewater treatment.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Project Overview](#project-overview)
-- [Data Collection](#data-collection)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
