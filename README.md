@@ -36,5 +36,5 @@ The project's findings provide valuable insights into the prevailing topics and 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/sars-cov2-wastewater-analysis.git
+   git clone https://github.com/MiguelAndreDias/sars-cov2-wastewater-analysis.git
    cd sars-cov2-wastewater-analysis
